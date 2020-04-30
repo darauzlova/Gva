@@ -1,0 +1,92 @@
+.box{
+	width: 1110px;
+	height: 672px;
+	border:1px solid black;
+	background-image: url(../img/fon.png);
+	position: relative;
+}
+.america{
+	
+	position: absolute;
+	
+	left: 235px;
+    top: 150px;
+    
+}
+.canada{
+	position: absolute;
+    left: 185px;
+    top: 50px;
+}
+.russia{
+	position: absolute;
+	left: 725px;
+    top: 30px;
+}
+.polish{
+	position: absolute;
+	top: 80px;
+    left: 570px;
+}
+.japon{
+	position: absolute;
+	top: 170px;
+    right: 160px;
+}
+.gvaeva{
+	position: absolute;
+	bottom: 0 ;
+	left: 0 ;
+
+}
+.oblako{
+	position: absolute;
+	bottom: 105px;
+    left: 255px;
+}
+.text{
+	position: absolute;
+	text-align: center;
+	left: 330px;
+    bottom: 155px;
+    font-size: 18px;
+}
+#modal1{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+
+#modal2{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+#modal3{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+#modal4{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+#modal5{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+.happy{
+	position: absolute;
+	bottom: 0 ;
+}
+.texthappy{
+	position: absolute;
+	left: 150px;
+}
